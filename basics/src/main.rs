@@ -1,6 +1,4 @@
-use basics::GREETING;
 use basics::*;
-use basics::build_full_name;
 
 fn main() {
     println!("Hello, world! {}",GREETING);
