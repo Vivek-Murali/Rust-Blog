@@ -1,4 +1,4 @@
-use basics::*;
+use funcs::*;
 use std::path::PathBuf;
 
 fn main() {
